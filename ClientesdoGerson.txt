@@ -189,8 +189,7 @@
                 <td id="senha1">Deiv10758108761</td>
                 <td id="senha2">-</td>
                 <td id="senha3">-</td>
-"                <td id=""obs"">Recibo de 2021 - 0935841043 - 43 - Recibo de 2022 - 1994846543 - 11
-</td>"
+                <td id="obs">Recibo de 2021 - 0935841043 - 43 - Recibo de 2022 - 1994846543 - 11</td>
 </tr>
             <tr>
 <td id="id">17</td>
@@ -214,8 +213,7 @@
                 <td id="senha1">Deni87411598704</td>
                 <td id="senha2">Gov.br - 28346606Td@</td>
                 <td id="senha3">-</td>
-"                <td id=""obs"">Site Carioca (Contra Cheque)  e Prev Rio -Senha  76106730
-</td>"
+                <td id="obs">Site Carioca (Contra Cheque)  e Prev Rio -Senha  76106730</td>
 </tr>
             <tr>
 <td id="id">19</td>
@@ -455,8 +453,7 @@
                 <td id="senha1">Leil14051769704</td>
                 <td id="senha2">-</td>
                 <td id="senha3">-</td>
-"                <td id=""obs"">Email - leilianacassimirosoaresmoreira@gmail.com - leilianacassimirosoaresmoreira@outlook.com
-</td>"
+                <td id="obs">Email - leilianacassimirosoaresmoreira@gmail.com - leilianacassimirosoaresmoreira@outlook.com</td>
 </tr>
             <tr>
 <td id="id">39</td>
@@ -516,7 +513,7 @@
                 <td id="senha1">Marc15188363720</td>
                 <td id="senha2">Gov.br - Marc15188363720@</td>
                 <td id="senha3">Nota carioca - Marc3720</td>
-                <td id="obs">Email - marcellygoncalvesdonascimento@gmail.com </td>
+                <td id="obs">Email - marcellygoncalvesdonascimento@gmail.com</td>
 </tr>
             <tr>
 <td id="id">44</td>
@@ -708,8 +705,7 @@
                 <td id="senha1">Rafael124578963.</td>
                 <td id="senha2">-</td>
                 <td id="senha3">-</td>
-"                <td id=""obs"">Inscriçao Estadual -14376216
-</td>"
+                <td id="obs">Inscriçao Estadual -14376216</td>
 </tr>
             <tr>
 <td id="id">60</td>
@@ -817,8 +813,7 @@
                 <td id="senha1">Wand5603489758</td>
                 <td id="senha2">Gov.br - W274089h*</td>
                 <td id="senha3">-</td>
-"                <td id=""obs"">Recido de 2020_2021 -06.05.82.66.27 - 02
-</td>"
+                <td id="obs">Recido de 2020_2021 -06.05.82.66.27 - 02</td>
 </tr>
             <tr>
 <td id="id">69</td>
