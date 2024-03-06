@@ -1,7 +1,7 @@
 </tr>
             <tr>
 <td id="id">1</td>
-                <td id="nome">GUGU Dos Santos(Genro Do Robson)</td>
+                <td id="nome">GUGUVA Dos Santos(Genro Do Robson)</td>
                 <td id="cpf">071.223.977-42</td>
                 <td id="cnpj">19.523.313/0001-52</td>
                 <td id="dataNasc">29/06/1975</td>
